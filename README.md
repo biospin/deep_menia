@@ -26,7 +26,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
    - 딥바이오 논문 : https://github.com/gokceneraslan/awesome-deepbio
 
 ## 차후 스터디 
- - 내년 1월까지 계획 있음.
+ - 컴퓨터과학의 기초를 다지는 단단한 수학 : http://www.yes24.com/24/goods/59611046?scode=032&OzSrank=1
  
  ## 장소
 1. 장소: 신촌 세브란스 연세 암병원 이승호 회의실(B2층) http://goo.gl/sCgerx
