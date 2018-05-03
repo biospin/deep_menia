@@ -15,12 +15,12 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 
 ## 교재 정보
 1. 딥러닝
-   -  모두의 딥러닝 : http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160503715&orderClick=LAH&Kc=
-   -  인공지능을 위한 선형대수(주재걸 교수님)  : http://www.edwith.org/linearalgebra4ai
+   - 모두의 딥러닝 : http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160503715&orderClick=LAH&Kc=
+   - 인공지능을 위한 선형대수(주재걸 교수님)  : http://www.edwith.org/linearalgebra4ai
 
 2. 의료정보학과 생명정보학 
    - udacity  CSE 8803 Special Topics: Big Data : https://classroom.udacity.com/courses/ud758 (의료정보학)
-   -  NGS데이터분석 :  https://www.youtube.com/playlist?list=PL_g6MSy-DgrnezNi_Zb9TB2CH0_U_5wE9
+   - NGS데이터분석 :  https://www.youtube.com/playlist?list=PL_g6MSy-DgrnezNi_Zb9TB2CH0_U_5wE9
 
 3. 논문읽기 모임
    - PR12 딥러닝  : https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS
@@ -49,7 +49,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
 |  1 |2018. 5.11|(딥러닝)   모두의 딥러닝 - 1장 최고급 요리를 먹을 시간, 2장 처음 해 보는 딥러닝  
-|    |          |(의료생명정보학) (의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 1: Introduction to Big Data, Lesson 2: Big Data Course Overview
+|    |          |(의료생명정보학) [(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 1: Introduction to Big Data, Lesson 2: Big Data Course Overview](https://github.com/biospin/deep_menia/blob/master/part01/week1_180511/BigDataAnalyticsinHealthcare_Lesson1_2.pdf)
 |    |          |(논문읽기 모임)  발표자가 선정
 |  2 |2018. 5.18|(딥러닝)  인공지능을 위한 선형대수 - 1장 : intro와  선형대수의 기초
 |    |          |(의료생명정보학) NGS데이터분석 - NGSeconomy 과 SangerSequencing
