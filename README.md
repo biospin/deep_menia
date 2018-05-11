@@ -48,8 +48,8 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 ### Part 1.
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
-|  1 |2018. 5.11|(딥러닝)   모두의 딥러닝 - 1장 최고급 요리를 먹을 시간, 2장 처음 해 보는 딥러닝  
-|    |          |(의료생명정보학) [(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 1: Introduction to Big Data, Lesson 2: Big Data Course Overview](https://github.com/biospin/deep_menia/blob/master/part01/week1_180511/BigDataAnalyticsinHealthcare_Lesson1_2.pdf)
+|  1 |2018. 5.11|(딥러닝)   [모두의 딥러닝 - 1장 최고급 요리를 먹을 시간, 2장 처음 해 보는 딥러닝  ](https://github.com/biospin/deep_menia/blob/master/part01/week1_180511/%5B%EB%AA%A8%EB%91%90%EC%9D%98%EB%94%A5%EB%9F%AC%EB%8B%9D%5D%201%EC%9E%A5_%20%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%9A%94%EB%A6%AC%EB%A5%BC%20%EB%A8%B9%EC%9D%84%20%EC%8B%9C%EA%B0%84.pdf)(김가경)
+|    |          |(의료생명정보학) [(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 1: Introduction to Big Data, Lesson 2: Big Data Course Overview](https://github.com/biospin/deep_menia/blob/master/part01/week1_180511/BigDataAnalyticsinHealthcare_Lesson1_2.pdf)(지용기)
 |    |          |(논문읽기 모임)  발표자가 선정
 |  2 |2018. 5.18|(딥러닝)  인공지능을 위한 선형대수 - 1장 : intro와  선형대수의 기초
 |    |          |(의료생명정보학) NGS데이터분석 - NGSeconomy 과 SangerSequencing
