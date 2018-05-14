@@ -58,7 +58,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |  3 |2018. 5.25|(딥러닝)   모두의 딥러닝 - 3장 가장 훌륭한 예측선 긋기: 선형 회귀 
 |    |          |(의료생명정보학) (의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 3: Predictive Modeling
 |    |          |(논문읽기 모임)  발표자가 선정
-|  4 |2018. 6. 1|(딥러닝)  인공지능을 위한 선형대수 - 2장 : 선형방정식과 선형시스템
+|  4 |2018. 6. 1|(딥러닝)  인공지능을 위한 선형대수 - 2장 : 선형방정식과 선형시스템  + 선형결합
 |    |          |(의료생명정보학) NGS데이터분석 - 제2강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
 
@@ -69,13 +69,13 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |  1 |2018. 6.15|(딥러닝)   모두의 딥러닝 - 4장 오차 수정하기: 경사 하강법 
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 4: Classification Methods: Metrics 
 |    |          |(논문읽기 모임)  발표자가 선정
-|  2 |2018. 6.22|(딥러닝)  인공지능을 위한 선형대수 -  2장 : 선형결합
+|  2 |2018. 6.22|(딥러닝)  인공지능을 위한 선형대수 - 2장 :  선형독립과 선형종속  + 부분공간의 기저와 차원
 |    |          |(의료생명정보학) NGS데이터분석 -제3강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
 |  3 |2018. 6.29|(딥러닝)   모두의 딥러닝 - 5장 참 거짓 판단 장치: 로지스틱 회귀
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 5: Ensemble Methods
 |    |          |(논문읽기 모임)  발표자가 선정
-|  4 |2018. 7. 6|(딥러닝)  인공지능을 위한 선형대수 - 2장 : 선형독립과 선형종속
+|  4 |2018. 7. 6|(딥러닝)  인공지능을 위한 선형대수 -  2장 : 선형변환 + 선형변환 with Neural Networks
 |    |          |(의료생명정보학) NGS데이터분석 - 제4강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
 
@@ -86,13 +86,13 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |  1 |2018. 7.13|(딥러닝)  모두의 딥러닝 - 6장 퍼셉트론 
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 6: MapReduce ( 1/2 )
 |    |          |(논문읽기 모임)  발표자가 선정
-|  2 |2018. 7.20|(딥러닝)  인공지능을 위한 선형대수 - 2장 : 부분공간의 기저와 차원
+|  2 |2018. 7.20|(딥러닝)  인공지능을 위한 선형대수 - 2장 : 전사함수와 일대일함수 + 3 장 : Least Squares Problem 소개
 |    |          |(의료생명정보학) NGS데이터분석 - 제5강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
 |  3 |2018. 7.27|(딥러닝)  모두의 딥러닝 - 7장 다층 퍼셉트론  
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 6: MapReduce ( 2/2 )
 |    |          |(논문읽기 모임)  발표자가 선정
-|  4 |2018. 8. 3|(딥러닝)  인공지능을 위한 선형대수 - 2장 : 선형변환
+|  4 |2018. 8. 3|(딥러닝)  인공지능을 위한 선형대수 - 3장 :  Least Squares와 그 기하학적 의미  + 정규방정식
 |    |          |(의료생명정보학) NGS데이터분석 - 제6강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
 
@@ -102,13 +102,13 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |  1 |2018. 8.10|(딥러닝)   모두의 딥러닝 - 8장 오차 역전파
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 7: Clustering ( 1/2 )
 |    |          |(논문읽기 모임)  발표자가 선정
-|  2 |2018. 8.17|(딥러닝)  인공지능을 위한 선형대수 - 2장 : 선형변환 with Neural Networks
+|  2 |2018. 8.17|(딥러닝)  인공지능을 위한 선형대수 - 3장 : Orthogonal Projection Ⅰ + Orthogonal Projection ⅠⅠ
 |    |          |(의료생명정보학) NGS데이터분석 - 제5강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
 |  3 |2018. 8.24|(딥러닝)   모두의 딥러닝 - 9장 신경망에서 딥러닝으로 
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 7: Clustering ( 2/2 )
 |    |          |(논문읽기 모임)  발표자가 선정
-|  4 |2018. 8.31|(딥러닝)  인공지능을 위한 선형대수 - 2장 : 전사함수와 일대일함수
+|  4 |2018. 8.31|(딥러닝)  인공지능을 위한 선형대수 - 3장 : 그람-슈미트 직교화와 QR 분해 
 |    |          |(의료생명정보학) NGS데이터분석 - 제6강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
 
