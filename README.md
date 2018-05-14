@@ -1,10 +1,10 @@
 # 딥메니아 (딥러닝+메디칼+매니아) : 생명정보학이 의료정보학을 만났을때
 
 <img src="https://github.com/biospin/deep_menia/blob/master/medimia_02.jpg"  width="600"  height="500"/>
-<img src="https://github.com/biospin/deep_menia/blob/master/medimia_04.jpg"  width="600"  height="500"/>
 
 ## 스터디 정보
 저희 모임은 강의식이 아닌 자신이 스스로 공부한 내용을 여러 사람과 공유하는 스터디 방식이며, 스스로 공부하고자 하는 열정을 꼭 준비물로 가지고 와 주시고, 열심히 발표를 해주시면 더욱 감사합니다.
+<img src="https://github.com/biospin/deep_menia/blob/master/medimia_04.jpg"  width="300"  height="250"/>
 
 ## 후원사
 KossLab : http://devlab.oss.kr/
@@ -50,7 +50,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |----| ---------|----------------------------------------------
 |  1 |2018. 5.11|(딥러닝)   [모두의 딥러닝 - 1장 최고급 요리를 먹을 시간, 2장 처음 해 보는 딥러닝  ](https://github.com/biospin/deep_menia/blob/master/part01/week1_180511/%5B%EB%AA%A8%EB%91%90%EC%9D%98%EB%94%A5%EB%9F%AC%EB%8B%9D%5D%201%EC%9E%A5_%20%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%9A%94%EB%A6%AC%EB%A5%BC%20%EB%A8%B9%EC%9D%84%20%EC%8B%9C%EA%B0%84.pdf)(김가경)
 |    |          |(의료생명정보학) [(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 1: Introduction to Big Data, Lesson 2: Big Data Course Overview](https://github.com/biospin/deep_menia/blob/master/part01/week1_180511/BigDataAnalyticsinHealthcare_Lesson1_2.pdf)(지용기)
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임)  [Conversational AI: The Science Behind the Alexa Prize](https://github.com/josephlee518/RTFP/blob/master/Conversational%20AI%20-%20The%20Science%20Behind%20the%20Alexa%20Prize/Conversational%20AI%20-%20The%20Science%20Behind%20the%20Alexa%20Prize.pdf)(이승우)
 |  2 |2018. 5.18|(딥러닝)  인공지능을 위한 선형대수 - 1장 : intro와  선형대수의 기초
 |    |          |(의료생명정보학) NGS데이터분석 - NGSeconomy 과 SangerSequencing
 |    |          |(논문읽기 모임)  발표자가 선정
