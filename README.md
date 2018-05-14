@@ -4,6 +4,7 @@
 
 ## 스터디 정보
 저희 모임은 강의식이 아닌 자신이 스스로 공부한 내용을 여러 사람과 공유하는 스터디 방식이며, 스스로 공부하고자 하는 열정을 꼭 준비물로 가지고 와 주시고, 열심히 발표를 해주시면 더욱 감사합니다.
+
 <img src="https://github.com/biospin/deep_menia/blob/master/medimia_04.jpg"  width="300"  height="250"/>
 
 ## 후원사
