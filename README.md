@@ -53,7 +53,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |    |          |(의료생명정보학) [(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 1: Introduction to Big Data, Lesson 2: Big Data Course Overview](https://github.com/biospin/deep_menia/blob/master/part01/week1_180511/BigDataAnalyticsinHealthcare_Lesson1_2.pdf)(지용기)
 |    |          |(논문읽기 모임)  [Conversational AI: The Science Behind the Alexa Prize](https://github.com/josephlee518/RTFP/blob/master/Conversational%20AI%20-%20The%20Science%20Behind%20the%20Alexa%20Prize/Conversational%20AI%20-%20The%20Science%20Behind%20the%20Alexa%20Prize.pdf)(이승우)
 |  2 |2018. 5.18|(딥러닝)  인공지능을 위한 선형대수 - 1장 : intro와  선형대수의 기초
-|    |          |(의료생명정보학) NGS데이터분석 - NGSeconomy 과 SangerSequencing
+|    |          |(의료생명정보학) [NGS데이터분석 - NGSeconomy 과 SangerSequencing](https://github.com/biospin/deep_menia/blob/master/part01/week2_180518/20180518_NGS.pdf)(김상록)
 |    |          |(논문읽기 모임)  [스마트폰 위의 딥러닝](https://www.slideshare.net/NaverEngineering/ss-91365324)(김태흥)
 |  3 |2018. 5.25|(딥러닝)   모두의 딥러닝 - 3장 가장 훌륭한 예측선 긋기: 선형 회귀 
 |    |          |(의료생명정보학) (의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 3: Predictive Modeling
