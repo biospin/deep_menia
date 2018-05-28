@@ -57,11 +57,14 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |    |          |(논문읽기 모임)  [스마트폰 위의 딥러닝](https://www.slideshare.net/NaverEngineering/ss-91365324)(김태흥)
 |  3 |2018. 5.25|(딥러닝)   [모두의 딥러닝 - 3장 가장 훌륭한 예측선 긋기: 선형 회귀](https://github.com/biospin/deep_menia/blob/master/part01/week3_180525/%5B%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%94%A5%EB%9F%AC%EB%8B%9D%5D%203%EC%9E%A5.%20%EA%B0%80%EC%9E%A5%20%ED%9B%8C%EB%A5%AD%ED%95%9C%20%EC%98%88%EC%B8%A1%EC%84%A0%20%EA%B8%8B%EA%B8%B0%20-%20%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80.pdf)(김학영) 
 |    |          |(의료생명정보학) (의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 3: Predictive Modeling
+|    |          |(논문읽기 모임) [End-to-end Music Classification](https://www.slideshare.net/JunKim22/endtoend-music-classification-96586946)
 |    |          |(논문읽기 모임)  [Learning to Treat Sepsis with Multi-Output Gaussian Process Deep Recurrent Q-Networks](https://openreview.net/forum?id=SyxCqGbRZ)(정혜원)
 |  4 |2018. 6. 1|(딥러닝)  인공지능을 위한 선형대수 - 2장 : 선형방정식과 선형시스템  + 선형결합
 |    |          |(의료생명정보학) NGS데이터분석 - 제2강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
 
+
+https://www.slideshare.net/JunKim22/endtoend-music-classification-96586946
 
 ### Part 2.
 |seq.|    날짜        |     내용                                                                                      
