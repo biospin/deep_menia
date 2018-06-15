@@ -29,6 +29,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 
 ## 차후 스터디 
  - 컴퓨터과학의 기초를 다지는 단단한 수학 : http://www.yes24.com/24/goods/59611046?scode=032&OzSrank=1
+ - 수리물리학 : http://www.yes24.com/24/goods/2882261?scode=032&OzSrank=1
  
  ## 장소
 1. 장소: 신촌 세브란스 연세 암병원 이승호 회의실(B2층) http://goo.gl/sCgerx
