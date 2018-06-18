@@ -69,19 +69,21 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 ### Part 2.
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
-|  1 |2018. 6. 8|(딥러닝)   [모두의 딥러닝 - 4장 오차 수정하기: 경사 하강법](https://github.com/biospin/deep_menia/blob/master/part02/week1_180608/%EB%94%A5%EB%9F%AC%EB%8B%9D_4%EC%9E%A5_%EC%98%A4%EC%B0%A8%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.pdf) 
-|    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 4: Classification Methods: Metrics 
+|  1 |2018. 6. 8|(딥러닝)   [모두의 딥러닝 - 4장 오차 수정하기: 경사 하강법](https://github.com/biospin/deep_menia/blob/master/part02/week1_180608/%EB%94%A5%EB%9F%AC%EB%8B%9D_4%EC%9E%A5_%EC%98%A4%EC%B0%A8%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.pdf) (김상록)
+|    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 4: Classification Methods: Metrics(김가경) 
 |    |          |(논문읽기 모임)  [kaggle 리뷰 : Cervical Cancer Risk Classification](https://github.com/biospin/deep_menia/blob/master/part02/week1_180608/Cervical_cancer_-_A_multilabel_classification.pdf)
 |    |          |            [kaggle 리뷰 : Breast Cancer Wisconsin (Diagnostic) Data Set](https://github.com/biospin/deep_menia/blob/master/part02/week1_180608/Breast_Cancer_Prediction_from_Cytopathology_Data.pdf)
 |  2 |2018. 6.15|(딥러닝)  인공지능을 위한 선형대수 - 2장 :  선형독립과 선형종속  + 부분공간의 기저와 차원
-|    |          |(의료생명정보학) [NGS데이터분석 -제3강 Fastq 포맷 및 다운로드](https://github.com/biospin/deep_menia/blob/master/part02/week2_180615/NGS%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_3%EA%B0%95-Fastq%ED%8F%AC%EB%A7%B7%EB%B0%8F%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.pdf)(지용기)
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(의료생명정보학) [NGS데이터분석 -제3강 Fastq 포맷 및 다운로드](박지혜)(https://github.com/biospin/deep_menia/blob/master/part02/week2_180615/NGS%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_3%EA%B0%95-Fastq%ED%8F%AC%EB%A7%B7%EB%B0%8F%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.pdf)(지용기)
+|    |          |(논문읽기 모임)  [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
+|    |          |            [Grad-CAM: 대선주자 얼굴 위치 추적기](http://jsideas.net/python/2018/01/12/grad_cam.html) (김태흥)
 |  3 |2018. 6.22|(딥러닝)   모두의 딥러닝 - 5장 참 거짓 판단 장치: 로지스틱 회귀
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 5: Ensemble Methods
 |    |          |(논문읽기 모임)  발표자가 선정
 |  4 |2018. 6.29|(딥러닝)  인공지능을 위한 선형대수 -  2장 : 선형변환 + 선형변환 with Neural Networks
 |    |          |(의료생명정보학) NGS데이터분석 - 제4강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
+
 
 
 ### Part 3.
