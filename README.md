@@ -70,7 +70,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
 |  1 |2018. 6. 8|(딥러닝)   [모두의 딥러닝 - 4장 오차 수정하기: 경사 하강법](https://github.com/biospin/deep_menia/blob/master/part02/week1_180608/%EB%94%A5%EB%9F%AC%EB%8B%9D_4%EC%9E%A5_%EC%98%A4%EC%B0%A8%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.pdf) (김상록)
-|    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 4: Classification Methods: Metrics(김가경) 
+|    |          |(의료생명정보학) [udacity  CSE 8803 Special Topics: Big Data  - Lesson 4: Classification Methods: Metrics](https://github.com/biospin/deep_menia/blob/master/part02/week1_180608/CSE8803_ClassificationMethods_Metrics.pdf)(김가경) 
 |    |          |(논문읽기 모임)  [kaggle 리뷰 : Cervical Cancer Risk Classification](https://github.com/biospin/deep_menia/blob/master/part02/week1_180608/Cervical_cancer_-_A_multilabel_classification.pdf)
 |    |          |            [kaggle 리뷰 : Breast Cancer Wisconsin (Diagnostic) Data Set](https://github.com/biospin/deep_menia/blob/master/part02/week1_180608/Breast_Cancer_Prediction_from_Cytopathology_Data.pdf)
 |  2 |2018. 6.15|(딥러닝)  인공지능을 위한 선형대수 - 2장 :  선형독립과 선형종속  + 부분공간의 기저와 차원
