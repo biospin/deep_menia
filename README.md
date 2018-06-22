@@ -77,7 +77,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |    |          |(의료생명정보학) [NGS데이터분석 -제3강 Fastq 포맷 및 다운로드](https://github.com/biospin/deep_menia/blob/master/part02/week2_180615/NGS%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_3%EA%B0%95-Fastq%ED%8F%AC%EB%A7%B7%EB%B0%8F%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.pdf)(지용기)
 |    |          |(논문읽기 모임)  [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
 |    |          |            [Grad-CAM: 대선주자 얼굴 위치 추적기](http://jsideas.net/python/2018/01/12/grad_cam.html) (김태흥)
-|  3 |2018. 6.22|(딥러닝)   [모두의 딥러닝 - 5장 참 거짓 판단 장치: 로지스틱 회귀](https://github.com/biospin/deep_menia/blob/master/part02/week3_180622/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80.pdf)[실습](https://github.com/biospin/deep_menia/blob/master/part02/week3_180622/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80-%EB%AA%A8%EB%91%90%EC%9D%98%EB%94%A5%EB%9F%AC%EB%8B%9D.ipynb)(안태영)
+|  3 |2018. 6.22|(딥러닝)   [모두의 딥러닝 - 5장 참 거짓 판단 장치: 로지스틱 회귀](https://github.com/biospin/deep_menia/blob/master/part02/week3_180622/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80.pdf),  [실습](https://github.com/biospin/deep_menia/blob/master/part02/week3_180622/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80-%EB%AA%A8%EB%91%90%EC%9D%98%EB%94%A5%EB%9F%AC%EB%8B%9D.ipynb)(안태영)
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 5: Ensemble Methods
 |    |          |(논문읽기 모임)  [Neural Text Generation: A Practical Guide](https://github.com/josephlee518/til/blob/master/Neural%20Text%20Generation%2BA%20Practical%20Guide.ipynb)(이승우)
 |  4 |2018. 6.29|(딥러닝)  인공지능을 위한 선형대수 -  2장 : 선형변환 + 선형변환 with Neural Networks
