@@ -79,7 +79,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |    |          |            [Grad-CAM: 대선주자 얼굴 위치 추적기](http://jsideas.net/python/2018/01/12/grad_cam.html) (김태흥)
 |  3 |2018. 6.22|(딥러닝)   모두의 딥러닝 - 5장 참 거짓 판단 장치: 로지스틱 회귀
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 5: Ensemble Methods
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임)  [Neural Text Generation: A Practical Guide](https://github.com/josephlee518/til/blob/master/Neural%20Text%20Generation%2BA%20Practical%20Guide.ipynb)(이승우)
 |  4 |2018. 6.29|(딥러닝)  인공지능을 위한 선형대수 -  2장 : 선형변환 + 선형변환 with Neural Networks
 |    |          |(의료생명정보학) NGS데이터분석 - 제4강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
