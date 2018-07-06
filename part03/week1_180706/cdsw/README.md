@@ -49,13 +49,21 @@
   
 ### Apache Spark 2 설치
   - 참고 : https://www.cloudera.com/documentation/spark2/latest/topics/spark2_installing.html
+  - CDSW도 같이 작업이 있어서 여기서 같이 설명함.
   - wget -P  /opt/cloudera/csd   http://archive.cloudera.com/spark2/csd/SPARK2_ON_YARN-2.3.0.cloudera2.jar
+  - wget -P  /opt/cloudera/csd   https://archive.cloudera.com/cdsw1/1.4.0/csd/CLOUDERA_DATA_SCIENCE_WORKBENCH-CDH5-1.4.0.jar
   - chown cloudera-scm:cloudera-scm  /opt/cloudera/csd/*.jar && chmod 644 /opt/cloudera/csd/*.jar 
   - service cloudera-scm-server restart  # 클라우데라 매니저 서버를 재시작
   - Cloudera Management Service 재시작
   ![](01.jpg)
-  
-  
+  - Spark2 배포용 Parcels 등록 화면
+  ![](02.jpg)
+  ![](03.jpg)
+  - Spark2 배포 저장소 URL을 등록하고 변경내용 저장 버튼을 클릭
+  - CDSW도 같이 작업이 필요하므로 같이 등록하자
+  ![](04.jpg)
+  - 아래 그림과 같이 되도록 다운로드 -> 배포 -> 활성화 
+  ![](05.jpg)
   
    
 
