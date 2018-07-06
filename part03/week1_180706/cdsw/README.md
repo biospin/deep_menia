@@ -108,6 +108,13 @@ EOT
 - 나머지 단계는 계속버튼 클릭으로 대부분 처리됨 , 추가 장비가 없어서 화면캡쳐를 못함.
 - 호스트가 추가된 화면
 ![](15.jpg)
+
+
+
+### Cloudera Data Science Workbench 서비스 추가
+  - 서비스 추가 
+  ![](06.jpg)
+  - CDSW 선택
 ![](16.jpg)
 - 이미 CDSW설치된 Cloudera Manager에서는 다시 설치가 되지 않으므로 설치 과정 화면을 캡처 못함.
 - 나중에 CDSW의 무료 License 기간이 끝나서 다시 설치할때 설치과정을 캡처하는 것으로 하고...   
@@ -124,14 +131,6 @@ EOT
 ![](21.jpg) 
 - 기타 사용법은 공식 문서로 대체함
 - https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_quickstart.html
-
-
-
-
-### Cloudera Data Science Workbench 서비스 추가
-  - 서비스 추가 
-  ![](06.jpg)
-  - CDSW 선택
   
 
   
