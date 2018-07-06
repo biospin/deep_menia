@@ -129,7 +129,7 @@ EOT
 - 설치 과정중에 중요한 설정값들
 ![](18.jpg)
 
-- Docker Block Device에서 사용할 disk를 지정 : 새로 disk를 구입한 상태
+- Docker Block Device에서 사용할 disk를 지정 : ** Do not mount these block devices prior to installation.**
 ![](19.jpg)
 
 - 설치 과정을 설정값들만 정확히 입력하면 계속 버튼만 클릭하면 설치됨
