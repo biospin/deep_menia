@@ -109,7 +109,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 7: Clustering ( 1/2 )
 |    |          |(논문읽기 모임)  발표자가 선정
 |  2 |2018. 8.10|(딥러닝)  인공지능을 위한 선형대수 - 3장 : Orthogonal Projection Ⅰ + Orthogonal Projection ⅠⅠ
-|    |          |(의료생명정보학) NGS데이터분석 - 제5강 모두
+|    |          |(의료생명정보학) [udacity  CSE 8803 Special Topics: Big Data  - Lesson 8: Computational Phenotyping](https://github.com/biospin/deep_menia/blob/master/part04/week2_180810/BigDataAnalyticsinHealthcare_Lesson8.pdf)(지용기)
 |    |          |(논문읽기 모임)  발표자가 선정
 |  3 |2018. 8.17|(딥러닝)   모두의 딥러닝 - 9장 신경망에서 딥러닝으로 
 |    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 7: Clustering ( 2/2 )
