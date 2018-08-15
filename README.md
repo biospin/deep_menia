@@ -105,19 +105,23 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 ### Part 4.
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
-|  1 |2018. 8. 3|(딥러닝)   모두의 딥러닝 - 8장 오차 역전파
-|    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 7: Clustering ( 1/2 )
+|  1 |2018. 8. 3|(딥러닝)   (딥러닝)   모두의 딥러닝 - 10장 모델 설계하기 , 11장 데이터 다루기 
+|    |          |(의료생명정보학) NGS데이터분석 - 제9강 모두
 |    |          |(논문읽기 모임)  발표자가 선정
 |  2 |2018. 8.10|(딥러닝)  인공지능을 위한 선형대수 - 3장 : Orthogonal Projection Ⅰ + Orthogonal Projection ⅠⅠ
 |    |          |(의료생명정보학) [udacity  CSE 8803 Special Topics: Big Data  - Lesson 8: Computational Phenotyping](https://github.com/biospin/deep_menia/blob/master/part04/week2_180810/BigDataAnalyticsinHealthcare_Lesson8.pdf)(지용기)
-|    |          |(논문읽기 모임)  발표자가 선정
-|  3 |2018. 8.17|(딥러닝)   모두의 딥러닝 - 9장 신경망에서 딥러닝으로 
-|    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 7: Clustering ( 2/2 )
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임)  [Shake-Shake Regularization](http://research.sualab.com/machine-learning/computer-vision/2018/06/28/shake-shake-regularization-review.html)(김태흥)
+|  3 |2018. 8.17|(딥러닝)   모두의 딥러닝 - [12장 다중 분류 문제 해결하기](https://github.com/biospin/deep_menia/blob/master/part04/week3_180817/12%EC%9E%A5_%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0.ipynb) , 13장 과적합 피하기 
+|    |          |(의료생명정보학) NGS데이터분석 - 제11강 
+|    |          |(의료생명정보학) NGS데이터분석 - 제12강
 |  4 |2018. 8.24|(딥러닝)  인공지능을 위한 선형대수 - 3장 : 그람-슈미트 직교화와 QR 분해 
-|    |          |(의료생명정보학) NGS데이터분석 - 제6강 모두
+|    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 9: Dimensionality Reduction/Tensor Factorization 
 |    |          |(논문읽기 모임)  발표자가 선정
-
-
+|  5 |2018. 8.31|(딥러닝)   모두의 딥러닝 - 14장 베스트 모델 만들기,  15장  선형 회귀 적용하기 
+|    |          |(의료생명정보학) NGS데이터분석 - 제13강 모두 
+|    |          |(논문읽기 모임)  발표자가 선정
+|  6 |2018. 9. 7|(딥러닝)  인공지능을 위한 선형대수 - 4장 : 고유벡터와 고유값,   영공간과 직교여공간 
+|    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 10: Spark 
+|    |          |(논문읽기 모임)  발표자가 선정
 
 
