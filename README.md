@@ -111,7 +111,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |  2 |2018. 8.10|(딥러닝)  인공지능을 위한 선형대수 - 3장 : Orthogonal Projection Ⅰ + Orthogonal Projection ⅠⅠ
 |    |          |(의료생명정보학) [udacity  CSE 8803 Special Topics: Big Data  - Lesson 8: Computational Phenotyping](https://github.com/biospin/deep_menia/blob/master/part04/week2_180810/BigDataAnalyticsinHealthcare_Lesson8.pdf)(지용기)
 |    |          |(논문읽기 모임)  [Shake-Shake Regularization](http://research.sualab.com/machine-learning/computer-vision/2018/06/28/shake-shake-regularization-review.html)(김태흥)
-|  3 |2018. 8.17|(딥러닝)   모두의 딥러닝 - [12장 다중 분류 문제 해결하기](https://github.com/biospin/deep_menia/blob/master/part04/week3_180817/12%EC%9E%A5_%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0.ipynb) , 13장 과적합 피하기 
+|  3 |2018. 8.17|(딥러닝)   모두의 딥러닝 - [12장 다중 분류 문제 해결하기](https://github.com/biospin/deep_menia/blob/master/part04/week3_180817/12%EC%9E%A5_%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0.ipynb) , [13장 과적합 피하기](https://github.com/biospin/deep_menia/blob/master/part04/week3_180817/13%EC%9E%A5_%EA%B3%BC%EC%A0%81%ED%95%A9%ED%94%BC%ED%95%98%EA%B8%B0.ipynb) 
 |    |          |(의료생명정보학) NGS데이터분석 - 제11강 
 |    |          |(의료생명정보학) NGS데이터분석 - 제12강
 |  4 |2018. 8.24|(딥러닝)  인공지능을 위한 선형대수 - 3장 : 그람-슈미트 직교화와 QR 분해 
