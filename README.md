@@ -126,7 +126,7 @@ https://drive.google.com/drive/u/0/folders/1KKmp114hPSvM4ddfZxIfbx7RbvJekGRo
 |    |          |(의료생명정보학) NGS데이터분석 - 제13강 모두 
 |    |          |(논문읽기 모임)  발표자가 선정
 |  2 |2018. 9. 7|(딥러닝)  인공지능을 위한 선형대수 - 4장 : 고유벡터와 고유값,   영공간과 직교여공간 
-|    |          |(의료생명정보학) udacity  CSE 8803 Special Topics: Big Data  - Lesson 10: Spark 
+|    |          |(의료생명정보학) [udacity  CSE 8803 Special Topics: Big Data  - Lesson 10: Spark](https://github.com/biospin/deep_menia/blob/master/part05/week2_180907/BigDataAnalyticsinHealthcare_Lesson10_spark.pdf)(지용기) 
 |    |          |(논문읽기 모임)  발표자가 선정
 |  3 |2018. 9.14|(딥러닝)   모두의 딥러닝 - 16장 CNN 익히기,  17장 순환 신경망(RNN) 
 |    |          |(의료생명정보학) NGS데이터분석 제14강 - ChIP seq
